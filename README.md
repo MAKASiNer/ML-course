@@ -10,3 +10,13 @@
 1). [Вероятностное машинное обучение: введение. Мэрфи К.П.](https://dmkpress.com/catalog/computer/data/978-5-93700-119-1/)  
 2). [Глубокое обучение. Ян Гудфеллоу, Иошуа Бенджио, Аарон Курвилль](https://dmkpress.com/catalog/computer/data/978-5-97060-618-6/)  
 3). [Учебник по машинному обучению от ШАД](https://education.yandex.ru/handbook/ml)  
+4). [Грокаем глубокое обучение. Эндрю Траск](https://www.piter.com/collection/all/product/grokaem-glubokoe-obuchenie)
+
+Документация по основным библиотекам:
+1). [NumPy](https://numpy.org/doc/)
+2). [Pandas](https://pandas.pydata.org/docs/index.html)
+3). [Scikit-learn](https://scikit-learn.org/stable/index.html)
+4). [PyTorch](https://pytorch.org/docs/stable/index.html)
+5). [XGBoost](https://xgboost.readthedocs.io/en/stable/), [CatBoost](https://catboost.ai/en/docs/), [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
+6). [Matplotlib](https://matplotlib.org/)
+7). [Seaborn](https://seaborn.pydata.org/)
